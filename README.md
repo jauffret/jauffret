@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olskor/jauffret</h1>
+<h1 align="center">Hi 👋, I'm jauffret</h1>
 <h3 align="center">A passionate dev from 42 perpignan france</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olskor&label=Profile%20views&color=0e75b6&style=flat" alt="olskor" /> </p>
