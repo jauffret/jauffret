@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olskor" alt="olskor" /></a> </p>
 
-- 🌱 I’m currently learning **dockers**
+- 🌱 I’m currently learning **unity**
 
 - 📫 How to reach me **jauffret@student.42perpignan.fr**
 
